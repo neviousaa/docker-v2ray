@@ -1,10 +1,8 @@
-# 使用docker-compose以ws+tls方式快速部署科学上网利器v2ray
+# 使用docker-compose
 
 
 ## 更新日志
 
-* 2020年3月3日：增加v2ray并使用ws+tls方式实现代理服务；
-* 2020年3月1日：增加nginx服务并启用certbot证书；
 
 ## 使用步骤
 
